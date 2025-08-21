@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+# Uncomment to ignore your CSV dataset folder if you don't want to push data
+# data/
