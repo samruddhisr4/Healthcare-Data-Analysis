@@ -49,7 +49,7 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
-## 4) Using the app
+## 4) Using the app(https://ebieaq6ryfd5qp4xdnbtss.streamlit.app/)
 - Use the **sidebar** to choose dataset, model, test size, and whether to compute **SHAP**.
 - Click **Train / Evaluate** to view metrics, confusion matrix, ROC curve, feature importances, and downloads.
 - Use **Real-time Prediction** (bottom) to input patient features and get a prediction + confidence.
